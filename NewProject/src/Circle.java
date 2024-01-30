@@ -16,7 +16,7 @@ public static void main(String[] args) {
 		System.out.println("------------------------------------------------------------");
 		System.out.print("Enter the circle's radius: ");
 		Scanner R = new Scanner(System.in);
-		Circle c = new Circle.nextFloat());
+		//Circle c = new Circle.nextFloat());
 
 }
 
