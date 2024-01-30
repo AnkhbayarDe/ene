@@ -12,7 +12,7 @@ public static void main(String[] args) {
 		System.out.println("------------------------------------------------------------");
 		System.out.println("CircleCalc v1.0");
 		System.out.println();
-		System.out.println("Calculates and prints information for a user-supplied radius");
+		System.out.println("");
 		System.out.println("------------------------------------------------------------");
 		System.out.print("Enter the circle's radius: ");
 		Scanner R = new Scanner(System.in);
@@ -29,20 +29,4 @@ public static double Area(int R) {
 }
 }
 
-/*
 
-1. Start
-
-2. Input the the value of radius R
-
-3. Let PI=3.14
-
-4. Calculate area=PI*R*R
-
-5. Print area
-
-6.En
-
-
-
-*/
