@@ -311,6 +311,6 @@ public Lab222 union(Lab222 chain) {
             }
         }
 
-        return result;
+        return result; // 2:31
     }
 }
